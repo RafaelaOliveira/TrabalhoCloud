@@ -15,7 +15,7 @@ Joãozinho está fazendo uma coleção de dados de todos os carros que ele já v
 * ## **Prints**:
 
 - **POST**
-<img src="./img/insereCarro.png?raw=true"/>
+<img src="./img/funinsereCarro.png?raw=true"/>
 
 - **GET**
 <img src="./img/buscaCarro.png?raw=true"/>
